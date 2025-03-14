@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Qadir</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Yasir Hassan</h1>
+<h3 align="center">A Front-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qadir-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="qadir-hassan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirhassan1&label=Profile%20views&color=0e75b6&style=flat" alt="yasir hassan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadir-hassan" alt="qadir-hassan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirhassan1" alt="Yasir hassan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
