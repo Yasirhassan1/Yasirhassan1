@@ -1,71 +1,82 @@
-# Hi there, I'm Yasir Hassan 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Front-end%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0e75b6&height=180&section=header&text=Yasir%20Hassan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%26%20UI%2FUX%20Enthusiast&descFontSize=20&descAlignY=60" width="100%" />
 
-## 💫 About Me
-I am a passionate **Front-end Developer** with a knack for building clean, user-friendly interfaces. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Beyond just code, I explore the intersection of design and functionality.
+  <br />
 
-- 🔭 I’m currently working on enhancing my **React** and **UI/UX** skills.
-- ⚡ Fun fact: I enjoy working with different ecosystems, from **Linux** to **Flutter**.
-- 📫 How to reach me: <a href="mail-to:yasuhassan7896@gmail.com">email</a>
+  <h3>👋 About Me</h3>
+  <p align="center">
+    I am a detail-oriented <b>Front-end Developer</b> focused on crafting accessible, pixel-perfect, and performant web experiences.<br>
+    I bridge the gap between design and engineering, translating complex requirements into intuitive user interfaces.
+  </p>
+  
+  <p align="center">
+    🔭 <b>Focus:</b> React.js, Advanced UI/UX, and Scalable Frontend Architecture.<br>
+    🌱 <b>Exploring:</b> Mobile Cross-platform Development (Flutter) & Backend Integration.<br>
+  </p>
 
----
+  <a href="mailto:yasuhassan7896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yasuhassan7896%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yasir-hassan-9a14432b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-## 🛠️ Languages and Tools
+  <br />
+  <br />
 
-### 🌐 Frontend & Mobile
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</p>
+  <h3>🛠️ Technical Arsenal</h3>
 
-### 🖥️ Backend & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+  <p><b>Frontend & Design</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  </p>
 
-### ⚙️ Other Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+  <p><b>Backend & Core</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </p>
 
----
+  <p><b>Tools & Environment</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </p>
 
-## 📊 Github Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirhassan1&theme=flat&column=7" alt="trophies" />
-</p>
+  <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirhassan1&show_icons=true&theme=radical" alt="Yasir's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirhassan1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+  <h3>📊 GitHub Analytics</h3>
+  
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=yasirhassan1&theme=flat&column=7&no-frame=true&margin-w=15" alt="trophies" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirhassan1&theme=radical" alt="Streak Stats" />
-</p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yasirhassan1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirhassan1&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  </div>
+  
+  <br />
 
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirhassan1&theme=radical&hide_border=true&bg_color=0D1117" alt="streak stats" />
 
-## 🤝 Connect with me
-<p align="left">
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/yasir-hassan-9a14432b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+  <br />
+  <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasirhassan1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yasirhassan1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+
+</div>
