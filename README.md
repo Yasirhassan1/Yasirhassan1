@@ -9,7 +9,7 @@ I am a passionate **Front-end Developer** with a knack for building clean, user-
 
 - 🔭 I’m currently working on enhancing my **React** and **UI/UX** skills.
 - ⚡ Fun fact: I enjoy working with different ecosystems, from **Linux** to **Flutter**.
-- 📫 How to reach me: [Your Email/LinkedIn Link]
+- 📫 How to reach me: <a href="mail-to:yasuhassan7896@gmail.com">email</a
 
 ---
 
