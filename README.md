@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1t9sm2aTDqaI0Y0qTt0SuPCfXY9Tlki5h/view?usp=drive_link" width="100%" />
+  <img href="https://drive.google.com/file/d/1t9sm2aTDqaI0Y0qTt0SuPCfXY9Tlki5h/view?usp=drive_link" width="100%" />
 
   <h3>👋 About Me</h3>
   <p>
