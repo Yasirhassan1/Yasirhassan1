@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Yasir%20Hassan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%26%20UI%2FUX%20Enthusiast&descFontSize=20&descAlignY=55" width="100%" />
+  <img src="https://drive.google.com/file/d/1t9sm2aTDqaI0Y0qTt0SuPCfXY9Tlki5h/view?usp=drive_link" width="100%" />
 
   <h3>👋 About Me</h3>
   <p>
