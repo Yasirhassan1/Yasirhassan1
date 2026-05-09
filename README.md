@@ -145,30 +145,17 @@ const abdulMomin = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-### 📱 Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
----
 
 ### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
----
 
 ### 🤖 AI / ML
 
@@ -188,9 +175,6 @@ const abdulMomin = {
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -207,11 +191,8 @@ const abdulMomin = {
 |-------|------------|
 | React / Next.js | █████████░ 90% |
 | Node.js / Express | █████████░ 88% |
-| Flutter / Dart | ████████░░ 85% |
 | PostgreSQL / MongoDB | ████████░░ 85% |
 | Python / AI-ML | ████████░░ 82% |
-| Microservices | ████████░░ 80% |
-| DevOps / Docker | ████████░░ 80% |
 
 </div>
 
@@ -223,7 +204,7 @@ const abdulMomin = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Momin-786&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasirhassan1&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -236,9 +217,9 @@ const abdulMomin = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://github.com/Momin-786/Momin-786/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -279,11 +260,11 @@ const abdulMomin = {
 
 ### 👀 Thanks for visiting — let's build something that matters.
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
+[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://yasirhassan-omega.vercel.app/)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasuhassan7896@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-hassan-9a14432b1/)
 
 <br/>
 
