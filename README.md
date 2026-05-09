@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Abdul-Momin+👋;Full-Stack+Engineer+%40+EBOSOFT+🏢;React+%2F+Next.js+%2F+Node.js+Developer+⚡;Flutter+Mobile+Apps+📱;Building+AI-Powered+Web+Apps+🤖;COMSATS+University+-+Software+Engineering+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Yasir-Hassan+👋;MERN-Stack+Developer+%40+EBOSOFT+🏢;React+%2F+Next.js+%2F+Node.js+Developer+⚡;Flutter+Mobile+Apps+📱;Building+AI-Powered+Web+Apps+🤖;University+of+Baltistan+-+Computer+Science+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,17 +27,17 @@
 ## 🧠 Who Am I
 
 ```typescript
-const abdulMomin = {
+const yasirHassan = {
   location       : "Pakistan 🇵🇰",
-  role           : "Full-Stack Developer",
-  education      : "Computer Scince — University of Baltistan",
+  role           : "MERN Stack Developer",
+  education      : "Computer Science — University of Baltistan",
   awards         : ["🏆 Best Academic Result Award 2023", "🏆 Best Academic Result Award 2025"],
   currentFocus   : ["Microservices Architecture", "ScyllaDB", "TensorFlow / AI-ML"],
-  openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Innovative mobile apps"],
-  askMeAbout     : ["React/Next.js", "RESTful APIs", "Flutter", "AI integration"],
+  openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Front-End"],
+  askMeAbout     : ["React/Next.js", "RESTful APIs", "AI integration"],
   funFact        : "There are 10 types of people: those who understand binary, and those who don't 😄",
-  contact        : "hi@abdulmomin.dev",
-  portfolio      : "https://abdulmomin.dev",
+  contact        : "yasuhassan7896@gmail.com",
+  portfolio      : "https://yasirhassan-omega.vercel.app/",
 };
 ```
 
@@ -137,7 +137,6 @@ const abdulMomin = {
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
@@ -212,15 +211,6 @@ const abdulMomin = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://github.com/Yasirhassan1/Yasirhassan1/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
