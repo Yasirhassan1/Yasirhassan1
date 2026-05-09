@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=220&section=header&text=Abdul-Momin&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20%7C%20Mobile%20Dev&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=220&section=header&text=Yasir Hassan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20%7C%20Mobile%20Dev&descAlignY=58&descSize=20&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=momin-786&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Yasirhassan1&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Momin-786?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/Yasirhassan1?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
@@ -29,8 +29,8 @@
 ```typescript
 const abdulMomin = {
   location       : "Pakistan 🇵🇰",
-  role           : "Full-Stack Engineer @ EBOSOFT",
-  education      : "Software Engineering — COMSATS University Islamabad",
+  role           : "Full-Stack Developer",
+  education      : "Computer Scince — University of Baltistan",
   awards         : ["🏆 Best Academic Result Award 2023", "🏆 Best Academic Result Award 2025"],
   currentFocus   : ["Microservices Architecture", "ScyllaDB", "TensorFlow / AI-ML"],
   openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Innovative mobile apps"],
@@ -49,13 +49,13 @@ const abdulMomin = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AbdulMomin7863)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/its_mominn)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/silent.m786)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Momin-786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-hassan-9a14432b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yasirhassan-omega.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasuhassan7896@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/techtimist)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/yasu.hassan.79)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 
 </div>
 
@@ -71,7 +71,6 @@ const abdulMomin = {
 
 ### 🔨 Building
 - Full-stack apps with **React + Node.js**
-- Cross-platform mobile apps with **Flutter**
 - AI-integrated web products at **EBOSOFT**
 
     </td>
