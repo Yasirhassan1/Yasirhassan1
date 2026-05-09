@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Yasir-Hassan+👋;MERN-Stack+Developer+%40+EBOSOFT+🏢;React+%2F+Next.js+%2F+Node.js+Developer+⚡;Flutter+Mobile+Apps+📱;Building+AI-Powered+Web+Apps+🤖;University+of+Baltistan+-+Computer+Science+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Yasir-Hassan+👋;MERN-Stack+Developer+React+%2F+Next.js+%2F+Node.js+Developer+⚡;Building+AI-Powered+Web+Apps+🤖;University+of+Baltistan+-+Computer+Science+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -89,7 +89,6 @@ const yasirHassan = {
 ### 🤝 Looking To Collaborate On
 - AI-powered web applications
 - Open-source full-stack projects
-- Mobile apps solving real-world problems
 
     </td>
     <td width="50%" valign="top">
@@ -116,14 +115,12 @@ const yasirHassan = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -164,7 +161,7 @@ const yasirHassan = {
 
 ---
 
-### 🛠️ DevOps & Tools
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -206,10 +203,6 @@ const yasirHassan = {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasirhassan1&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 
 </div>
