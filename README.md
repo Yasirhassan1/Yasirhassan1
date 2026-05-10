@@ -77,7 +77,7 @@ const yasirHassan = {
     <td width="50%" valign="top">
 
 ### 📚 Learning
-- **Microservices Architecture** patterns
+- **Development Architecture** patterns
 - **ScyllaDB** for high-performance databases
 - **TensorFlow** and advanced AI/ML applications
 
@@ -87,15 +87,15 @@ const yasirHassan = {
     <td width="50%" valign="top">
 
 ### 🤝 Looking To Collaborate On
-- AI-powered web applications
 - Open-source full-stack projects
+- AI-powered web applications
+
 
     </td>
     <td width="50%" valign="top">
 
 ### 🏆 Recent Wins
-- 🥇 Best Academic Result Award **2025**
-- 🥇 Best Academic Result Award **2023**
+- 🥇 Achieved Prime Minister Laptop in **2026**
 - 💼 Working as Full-Stack Engineer while pursuing degree
 
     </td>
@@ -151,6 +151,7 @@ const yasirHassan = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 ### 🤖 AI / ML
